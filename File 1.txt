@@ -1,3 +1,4 @@
 Hello, This is me learning Git and Github.
 Hello, This is the second version.
 Solved Conflict Successfully.
+New Feature 2
